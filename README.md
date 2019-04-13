@@ -1,2 +1,2 @@
 # Data-science-case-study
-abalone case study
+case study
